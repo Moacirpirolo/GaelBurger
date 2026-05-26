@@ -42,7 +42,7 @@ const products = [
     name: "Brasa Picante",
     description: "Blend 160g, pepper jack, jalapeno, rúcula e molho chipotle.",
     price: 35.9,
-    image: "https://images.unsplash.com/photo-1606755962773-d324e2a13086?auto=format&fit=crop&w=900&q=84",
+    image: "https://images.unsplash.com/photo-1525164286253-04e68b9d942a?auto=format&fit=crop&w=900&q=84",
   },
   {
     id: "combo-gael",
